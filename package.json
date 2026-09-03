@@ -2,9 +2,9 @@
   "name": "aov-giao-hang",
   "version": "1.0.0",
   "description": "Ung dung ban hang",
-  "main": "AOVCODE.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node AOVCODE.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.19.2",
